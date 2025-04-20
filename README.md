@@ -1,5 +1,7 @@
-## Bem-vindo(a) meu perfil! 😁
+## Bem-vindo(a) ao  meu perfil! 😁
 
+<p>Me chamo Douglas , tenho 22 anos estou cursando(ADS) e atualmente estou a procura de uma vaga de estagio na área pra poder mostrar um pouco dos meus 
+ conhecimentos que possuo sou muito apaixonado pela area e pretendo  aperfeiçoar cada vez mais minha habilidades na Área</p>
  <div>
    <a href="https://github.com/kikiio777">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kikiio777&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
